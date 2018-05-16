@@ -41,3 +41,7 @@ Regroup all the viz tools: the classic matplotlib, but also seaborn (statistic b
 ### [Machine Learning](./ml)
 
 Is a set of quick tutorial that introduce to machine learning via the sklearn library.
+
+### [Misc](./misc)
+
+Other topic that does not fit into other folders.

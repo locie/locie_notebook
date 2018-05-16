@@ -9,6 +9,10 @@ numpy = "*"
 scipy = "*"
 pandas = "*"
 jupyterlab = "*"
+requests = "*"
+pycountry = "*"
+holoviews = "*"
+bokeh = "*"
 
 [dev-packages]
 
