@@ -13,6 +13,8 @@ requests = "*"
 pycountry = "*"
 holoviews = "*"
 bokeh = "*"
+deap = "*"
+scikit-learn = "*"
 
 [dev-packages]
 
