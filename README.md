@@ -42,6 +42,9 @@ Regroup all the viz tools: the classic matplotlib, but also seaborn (statistic b
 
 Is a set of quick tutorial that introduce to machine learning via the sklearn library or to the optimization tool we use at LOCIE.
 
+- [SVM example using Scikit-learn](./ml/mapping_function_SVM.ipynb)
+- [NSGA2 optimization using DEAP explained](./ml/multiobjective_optimization.ipynb)
+
 ### [Misc](./misc)
 
 Other topic that does not fit into other folders.
