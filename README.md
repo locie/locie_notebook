@@ -38,9 +38,9 @@ Pandas is the dedicated tool to deal with tabular data. It's the excel on steroi
 
 Regroup all the viz tools: the classic matplotlib, but also seaborn (statistic based vizualisation), bokeh and holoviews that allow rich and interactive vizualisation.
 
-### [Machine Learning](./ml)
+### [Machine Learning and optimization](./ml)
 
-Is a set of quick tutorial that introduce to machine learning via the sklearn library.
+Is a set of quick tutorial that introduce to machine learning via the sklearn library or to the optimization tool we use at LOCIE.
 
 ### [Misc](./misc)
 
