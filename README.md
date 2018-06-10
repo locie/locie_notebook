@@ -20,7 +20,12 @@ or
 
 Useful tutorial or snippets about the python language itself : data structure, useful libraries not directly related to numerical computation.
 
-- [Unlock the power of your computer with multiprocessing computation](./base_python/multiprocessing.ipynb)
+- [Unlock the power of your computer with multiprocessing computation (en)](./base_python/multiprocessing.ipynb)
+- !DRAFT [functools and functional programming (en)](./base_python/functools_funct_program-en.ipynb)
+- !DRAFT [functools et la programmation fonctionnelle (fr)](./base_python/functools_funct_program-fr.ipynb)
+- !DRAFT [Classy iterable with itertools (en)](base_python/itertools-en.ipynb)
+- !DRAFT [Itérer avec classe avec itertools (fr)](base_python/itertools-fr.ipynb)
+
 
 ### [Numpy](./numpy)
 
@@ -42,8 +47,8 @@ Regroup all the viz tools: the classic matplotlib, but also seaborn (statistic b
 
 Is a set of quick tutorial that introduce to machine learning via the sklearn library or to the optimization tool we use at LOCIE.
 
-- [SVM example using Scikit-learn](./ml/mapping_function_SVM.ipynb)
-- [NSGA2 optimization using DEAP explained](./ml/multiobjective_optimization.ipynb)
+- [SVM regression example using Scikit-learn (en)](./ml/mapping_function_SVM.ipynb)
+- [NSGA2 optimization using DEAP explained (en)](./ml/multiobjective_optimization.ipynb)
 
 ### [Misc](./misc)
 
