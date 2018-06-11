@@ -27,19 +27,19 @@ Useful tutorial or snippets about the python language itself : data structure, u
 - !DRAFT [Itérer avec classe avec itertools (fr)](base_python/itertools-fr.ipynb)
 
 
-### [Numpy](./numpy)
+### Numpy (Coming soon)
 
 Numpy is the main brick of the computation in python. It's based on C routines which allow fast computation without have to sacrifice the ease of use.
 
-### [Scipy](./scipy)
+### Scipy (Coming soon)
 
 Scipy is a higher level brick than numpy and contain a lot of powerful routines to deal with almost all numerical analysis cases : interpolation, signal analysis, integration, linear algebra, statistic analysis and so on.
 
-### [Pandas](./pandas)
+### Pandas (Coming soon)
 
 Pandas is the dedicated tool to deal with tabular data. It's the excel on steroid for python. It allows easy manipulation and complex request on the data, statistic analysis, a broad range of I/O tool that allows to import a lot of different file formats. (.csv, .xls/x, .hdf, SQL databases, for multiple files, remote data...).
 
-### [Vizualisation](./vizualisation)
+### Vizualisation (Coming soon)
 
 Regroup all the viz tools: the classic matplotlib, but also seaborn (statistic based vizualisation), bokeh and holoviews that allow rich and interactive vizualisation.
 
@@ -50,6 +50,6 @@ Is a set of quick tutorial that introduce to machine learning via the sklearn li
 - [SVM regression example using Scikit-learn (en)](./ml/mapping_function_SVM.ipynb)
 - [NSGA2 optimization using DEAP explained (en)](./ml/multiobjective_optimization.ipynb)
 
-### [Misc](./misc)
+### Misc (Coming soon)
 
 Other topic that does not fit into other folders.
