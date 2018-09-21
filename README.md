@@ -50,7 +50,7 @@ Is a set of quick tutorial that introduce to machine learning via the sklearn li
 - [SVM regression example using Scikit-learn (en)](./ml/mapping_function_SVM.ipynb)
 - [NSGA2 optimization using DEAP explained (en)](./ml/multiobjective_optimization.ipynb)
 
-### Misc (Coming soon)
+### [Misc](./misc)
 
 Other topic that does not fit into other folders.
 - [Sensitivity analysis: how to use RBD-FAST on SALib (en)](./misc/Sensitivity_analysis.ipynb) 
