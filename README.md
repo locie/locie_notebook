@@ -53,3 +53,4 @@ Is a set of quick tutorial that introduce to machine learning via the sklearn li
 ### Misc (Coming soon)
 
 Other topic that does not fit into other folders.
+- [Sensitivity analysis: how to use RBD-FAST on SALib (en)](./misc/Sensitivity_analysis.ipynb) 
