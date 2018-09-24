@@ -15,6 +15,7 @@ holoviews = "*"
 bokeh = "*"
 deap = "*"
 scikit-learn = "*"
+SALib = "*"
 
 [dev-packages]
 
