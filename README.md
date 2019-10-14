@@ -1,18 +1,21 @@
 # LOCIE NOTEBOOK
 
-This is a repository with some useful snippets, tutorial or explaination linked to computation in python.
+This is a repository with some useful snippets, tutorial or explaination linked
+to computation in python.
 
 Broad topics will be talked about (and the repo is under construction).
 
 ## Installation of dependencies
 
-Deps can be installed with [`pipenv`](https://docs.pipenv.org/) with `pipenv sync` in the root folder. Jupyter will be then launched with
+Deps can be installed with [`Anaconda`](https://www.anaconda.com/distribution/)
+with `conda env create` in the root folder.
 
-`pipenv run jupyter notebook`
+You can then activate the environment and launch Jupyter with
 
-or
-
-`pipenv run jupyter lab`
+```bash
+conda activate locie-notebook
+jupyter notebook
+```
 
 ## Table of Contents:
 
@@ -53,4 +56,4 @@ Is a set of quick tutorial that introduce to machine learning via the sklearn li
 ### [Misc](./misc)
 
 Other topic that does not fit into other folders.
-- [Sensitivity analysis: how to use RBD-FAST on SALib (en)](./misc/Sensitivity_analysis.ipynb) 
+- [Sensitivity analysis: how to use RBD-FAST on SALib (en)](./misc/Sensitivity_analysis.ipynb)

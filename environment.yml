@@ -1,0 +1,17 @@
+name: locie-notebook
+channels:
+  - conda-forge
+dependencies:
+  - jupyter
+  - numpy
+  - scipy
+  - pandas
+  - jupyterlab
+  - requests
+  - pycountry
+  - holoviews
+  - bokeh
+  - deap
+  - scikit-learn
+  - pip:
+      - SALib
